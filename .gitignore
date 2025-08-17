@@ -12,7 +12,6 @@ dist
 # static
 dist-ssr
 *.local
-static
 
 # Editor directories and files
 .vscode/*
