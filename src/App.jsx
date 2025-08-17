@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import pieImg from './assets/pie.jpg'
 import './App.css'
 
 function App() {
@@ -15,6 +16,9 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
+      </div>
+      <div>
+        <img src={pieImg} className="pi" alt="Static Logo" />
       </div>
       <h1>Vite + React</h1>
       <div className="card">
