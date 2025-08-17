@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'static',
   },
-  base: '/test_static_lfs',
+  base: '/test-static-lfs',
 })
